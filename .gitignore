@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+.DS_Store
+/tmp/
+backend/.venv/
+backend/.runtime/
+backend/storage/
+__pycache__/
+.pytest_cache/
